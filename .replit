@@ -1,0 +1,2 @@
+language = "cpp"
+run = "g++ examples/echo.cpp; ./a.out"
